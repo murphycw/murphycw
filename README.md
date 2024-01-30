@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Chris Murphy
+- 👀 I’m a new Sr. Data Scientist at Klaviyo working on the Natural Languages Interfaces team
+- 🌱 Prior to industry I was a theoretical physicist
+- 😄 Pronouns: he/him
+- ⚡ Here is my personal Github [account](https://github.com/christopher-w-murphy)
